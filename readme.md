@@ -1,10 +1,9 @@
 ## Installation
-1-
 ```
 composer install
 ```
-2- edit .env file with your database config
-3- export database
+- edit .env file with your database config
+- export database
 
 ## Run the application
 ```
